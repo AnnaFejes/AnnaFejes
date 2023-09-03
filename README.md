@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnnaFejes
 - 👀 I’m interested in Data Science and Aviation
-- 🌱 I’m currently learning SQL & HTML
+- 🌱 I’m currently learning SQL, Python & HTML
 - 📫 Reach me on <a href="https://www.linkedin.com/in/annafejesaviation/" >Linkedin</a>
 <!---- 💞️ I’m looking to collaborate on ...-->
 
